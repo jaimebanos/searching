@@ -14,7 +14,10 @@ pub struct Item {
 impl Item {
     pub fn new(path: &str) -> HashSet<Item> {
         let message: String = fs::read_to_string(path).unwrap();
-        let items: HashSet<Item> = serde_json::from_str(&message).unwrap();
+        let items: HashSet<Item> = match serde_json::from_str(&message) {
+            Ok(content) => content,
+            Err(_) => HashSet::new(),
+        };
 
         return items;
     }

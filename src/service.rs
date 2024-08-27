@@ -1,4 +1,5 @@
 use bytes::Bytes;
+use dotenv::dotenv;
 use reqwest::blocking::Client;
 use reqwest::Result;
 use std::env;
@@ -10,9 +11,11 @@ pub struct Service {
 
 impl Service {
     pub fn new() -> Service {
+        dotenv().ok();
+
         Service {
             client: reqwest::blocking::Client::new(),
-            api_key: env::var("API_KEY_DEV").unwrap(),
+            api_key: env::var("API_KEY_DEV").expect("API_KEY_DEV must be set"),
         }
     }
 
