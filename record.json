@@ -1,0 +1,548 @@
+[
+    {
+        "isin": "ES0173516115",
+        "symbol": "REP",
+        "website": "https://www.repsol.com",
+        "logo": "images/www.repsol.png"
+    },
+    {
+        "isin": "DE0008402215",
+        "symbol": "HNR1",
+        "website": "https://www.hannover-re.com",
+        "logo": "images/www.hannover-re.png"
+    },
+    {
+        "isin": "DE0007100000",
+        "symbol": "MBG",
+        "website": "https://www.mercedes-benz.com",
+        "logo": "images/www.mercedes-benz.png"
+    },
+    {
+        "isin": "FR0000045072",
+        "symbol": "ACA",
+        "website": "https://www.credit-agricole.com",
+        "logo": "images/www.credit-agricole.png"
+    },
+    {
+        "isin": "DE000ENAG999",
+        "symbol": "EOAN",
+        "website": "https://www.eon.com",
+        "logo": "images/www.eon.png"
+    },
+    {
+        "isin": "NL0000009082",
+        "symbol": "KPN",
+        "website": "https://www.kpn.com",
+        "logo": "images/www.kpn.png"
+    },
+    {
+        "isin": "DE0007164600",
+        "symbol": "SAP",
+        "website": "https://www.sap.com",
+        "logo": "images/www.sap.png"
+    },
+    {
+        "isin": "NL0000235190",
+        "symbol": "AIR",
+        "website": "https://www.airbus.com",
+        "logo": "images/www.airbus.png"
+    },
+    {
+        "isin": "GB0002875804",
+        "symbol": "BAT",
+        "website": "https://www.bat.com",
+        "logo": "images/www.bat.png"
+    },
+    {
+        "isin": "ES0178430E18",
+        "symbol": "TEF",
+        "website": "https://www.telefonica.com",
+        "logo": "images/www.telefonica.png"
+    },
+    {
+        "isin": "IT0005433002",
+        "symbol": "EXOR",
+        "website": "https://www.exor.com",
+        "logo": "images/www.exor.png"
+    },
+    {
+        "isin": "RU0009024277",
+        "symbol": "LKOH",
+        "website": "https://www.lukoil.com",
+        "logo": "images/www.lukoil.png"
+    },
+    {
+        "isin": "GB00B033F229",
+        "symbol": "CNA",
+        "website": "https://www.centrica.com",
+        "logo": "images/www.centrica.png"
+    },
+    {
+        "isin": "RU0007288411",
+        "symbol": "GMKN",
+        "website": "https://www.nornik.ru",
+        "logo": "images/www.nornik.ru.png"
+    },
+    {
+        "isin": "DE0007500001",
+        "symbol": "TKA",
+        "website": "https://www.thyssenkrupp.com",
+        "logo": "images/www.thyssenkrupp.png"
+    },
+    {
+        "isin": "FR0000120271",
+        "symbol": "TOTF",
+        "website": "https://totalenergies.com",
+        "logo": "images/totalenergies.png"
+    },
+    {
+        "isin": "NL0000009538",
+        "symbol": "PHIA",
+        "website": "https://www.philips.com",
+        "logo": "images/www.philips.png"
+    },
+    {
+        "isin": "CH0014852781",
+        "symbol": "SLHN",
+        "website": "https://www.swisslife.com",
+        "logo": "images/www.swisslife.png"
+    },
+    {
+        "isin": "IT0003128367",
+        "symbol": "ENEL",
+        "website": "https://www.enel.com",
+        "logo": "images/www.enel.png"
+    },
+    {
+        "isin": "FR0000120578",
+        "symbol": "SAN",
+        "website": "https://www.sanofi.com",
+        "logo": "images/www.sanofi.png"
+    },
+    {
+        "isin": "RU000A0J2Q06",
+        "symbol": "ROSN",
+        "website": "https://www.rosneft.com",
+        "logo": "images/www.rosneft.png"
+    },
+    {
+        "isin": "BE0003470755",
+        "symbol": "SOLB",
+        "website": "https://www.solvay.com",
+        "logo": "images/www.solvay.png"
+    },
+    {
+        "isin": "FR0000073272",
+        "symbol": "SAF",
+        "website": "https://www.safran-group.com",
+        "logo": "images/www.safran-group.png"
+    },
+    {
+        "isin": "GB0009895292",
+        "symbol": "AZN",
+        "website": "https://www.astrazeneca.com",
+        "logo": "images/www.astrazeneca.png"
+    },
+    {
+        "isin": "FR0000121485",
+        "symbol": "KER",
+        "website": "https://www.kering.com",
+        "logo": "images/www.kering.png"
+    },
+    {
+        "isin": "CH0418792922",
+        "symbol": "SIKA",
+        "website": "https://www.sika.com",
+        "logo": "images/www.sika.png"
+    },
+    {
+        "isin": "ES0113900J37",
+        "symbol": "SAN",
+        "website": "https://www.santander.com",
+        "logo": "images/www.santander.png"
+    },
+    {
+        "isin": "DE0007236101",
+        "symbol": "SIE",
+        "website": "https://www.siemens.com",
+        "logo": "images/www.siemens.png"
+    },
+    {
+        "isin": "RU0007661625",
+        "symbol": "GAZP",
+        "website": "https://www.gazprom.com",
+        "logo": "images/www.gazprom.png"
+    },
+    {
+        "isin": "CH0011075394",
+        "symbol": "ZURN",
+        "website": "https://www.zurich.com",
+        "logo": "images/www.zurich.png"
+    },
+    {
+        "isin": "FR0000146755",
+        "symbol": "ENX",
+        "website": "https://www.euronext.com",
+        "logo": "images/www.euronext.png"
+    },
+    {
+        "isin": "FR0000125486",
+        "symbol": "DG",
+        "website": "https://www.vinci.com",
+        "logo": "images/www.vinci.png"
+    },
+    {
+        "isin": "GB0009223206",
+        "symbol": "SN.",
+        "website": "https://www.smith-nephew.com",
+        "logo": "images/www.smith-nephew.png"
+    },
+    {
+        "isin": "GB00B07V7J56",
+        "symbol": "EMG",
+        "website": "https://www.man.com",
+        "logo": "images/www.man.png"
+    },
+    {
+        "isin": "CH0244767585",
+        "symbol": "UBSG",
+        "website": "https://www.ubs.com",
+        "logo": "images/www.ubs.png"
+    },
+    {
+        "isin": "NL0000303709",
+        "symbol": "STLA",
+        "website": "https://www.stellantis.com",
+        "logo": "images/www.stellantis.png"
+    },
+    {
+        "isin": "DE0005190003",
+        "symbol": "BMW",
+        "website": "https://www.bmw.com",
+        "logo": "bmw.png"
+    },
+    {
+        "isin": "IT0003132476",
+        "symbol": "ENI",
+        "website": "https://www.eni.com",
+        "logo": "images/www.eni.png"
+    },
+    {
+        "isin": "RU0009029540",
+        "symbol": "SBER",
+        "website": "https://www.sberbank.ru",
+        "logo": "images/www.sberbank.ru.png"
+    },
+    {
+        "isin": "FR0000121725",
+        "symbol": "AM",
+        "website": "https://www.dassault-aviation.com",
+        "logo": "images/www.dassault-aviation.png"
+    },
+    {
+        "isin": "FR0000120073",
+        "symbol": "AI",
+        "website": "https://www.airliquide.com",
+        "logo": "images/www.airliquide.png"
+    },
+    {
+        "isin": "GB0031348658",
+        "symbol": "BARC",
+        "website": "https://www.barclays.co.uk",
+        "logo": "images/www.barclays.co.uk.png"
+    },
+    {
+        "isin": "US9848026019",
+        "symbol": "YNDX",
+        "website": "https://www.yandex.com",
+        "logo": "images/www.yandex.png"
+    },
+    {
+        "isin": "GB00B10RZP78",
+        "symbol": "UL",
+        "website": "https://www.unilever.com",
+        "logo": "images/www.unilever.png"
+    },
+    {
+        "isin": "FR0010613471",
+        "symbol": "SEV",
+        "website": "https://www.suez.com",
+        "logo": "images/www.suez.png"
+    },
+    {
+        "isin": "PL9999999375",
+        "symbol": "CDR",
+        "website": "https://www.cdprojekt.com",
+        "logo": "images/www.cdprojekt.png"
+    },
+    {
+        "isin": "DE000BAY0017",
+        "symbol": "BAYN",
+        "website": "https://www.bayer.com",
+        "logo": "images/www.bayer.png"
+    },
+    {
+        "isin": "FR0000051732",
+        "symbol": "ATO",
+        "website": "https://atos.net",
+        "logo": "images/atos.net.png"
+    },
+    {
+        "isin": "FR0000052292",
+        "symbol": "RMS",
+        "website": "https://www.hermes.com",
+        "logo": "images/www.hermes.png"
+    },
+    {
+        "isin": "CH0012032048",
+        "symbol": "ROG",
+        "website": "https://www.roche.com",
+        "logo": "images/www.roche.png"
+    },
+    {
+        "isin": "BE0003739530",
+        "symbol": "UCB",
+        "website": "https://www.ucb.com",
+        "logo": "images/www.ucb.png"
+    },
+    {
+        "isin": "GB00B06H4B31",
+        "symbol": "HIK",
+        "website": "https://www.hikma.com",
+        "logo": "images/www.hikma.png"
+    },
+    {
+        "isin": "ZA0000001326",
+        "symbol": "VOD",
+        "website": "https://www.vodacom.co.za",
+        "logo": "vodacom.png"
+    },
+    {
+        "isin": "FR0010208488",
+        "symbol": "ENGI",
+        "website": "https://www.engie.com",
+        "logo": "images/www.engie.png"
+    },
+    {
+        "isin": "FR0000120693",
+        "symbol": "RI",
+        "website": "https://www.pernod-ricard.com",
+        "logo": "images/www.pernod-ricard.png"
+    },
+    {
+        "isin": "DE000BASF111",
+        "symbol": "BAS",
+        "website": "https://www.basf.com",
+        "logo": "images/www.basf.png"
+    },
+    {
+        "isin": "DE000TUAG505",
+        "symbol": "TUI1",
+        "website": "https://www.tuigroup.com",
+        "logo": "images/www.tuigroup.png"
+    },
+    {
+        "isin": "GB00BP6MXD84",
+        "symbol": "SHEL",
+        "website": "https://www.shell.com",
+        "logo": "images/www.shell.png"
+    },
+    {
+        "isin": "RU0009046510",
+        "symbol": "SVST",
+        "website": "https://www.severstal.com",
+        "logo": "images/www.severstal.png"
+    },
+    {
+        "isin": "DE0005439004",
+        "symbol": "CON",
+        "website": "https://www.continental.com",
+        "logo": "images/www.continental.png"
+    },
+    {
+        "isin": "LU1598757687",
+        "symbol": "MT",
+        "website": "https://corporate.arcelormittal.com",
+        "logo": "images/corporate.arcelormittal.png"
+    },
+    {
+        "isin": "DE0007037129",
+        "symbol": "RWE",
+        "website": "https://www.rwe.com",
+        "logo": "images/www.rwe.png"
+    },
+    {
+        "isin": "FR0000120628",
+        "symbol": "CS",
+        "website": "https://www.axa.com",
+        "logo": "images/www.axa.png"
+    },
+    {
+        "isin": "FR0000130650",
+        "symbol": "DSY",
+        "website": "https://www.3ds.com",
+        "logo": "images/www.3ds.png"
+    },
+    {
+        "isin": "FR0010307819",
+        "symbol": "LR",
+        "website": "https://www.legrand.com",
+        "logo": "images/www.legrand.png"
+    },
+    {
+        "isin": "NL0011794037",
+        "symbol": "AD",
+        "website": "https://www.aholddelhaize.com",
+        "logo": "images/www.aholddelhaize.png"
+    },
+    {
+        "isin": "FR0000124141",
+        "symbol": "VIE",
+        "website": "https://www.veolia.com",
+        "logo": "images/www.veolia.png"
+    },
+    {
+        "isin": "DE0007664039",
+        "symbol": "VOW3",
+        "website": "https://www.volkswagen.de",
+        "logo": "images/www.volkswagen.de.png"
+    },
+    {
+        "isin": "GB00BYX7NQ97",
+        "symbol": "LAND",
+        "website": "https://www.landsec.com",
+        "logo": "images/www.landsec.png"
+    },
+    {
+        "isin": "FR0000125007",
+        "symbol": "SGO",
+        "website": "https://www.saint-gobain.com",
+        "logo": "images/www.saint-gobain.png"
+    },
+    {
+        "isin": "CH0012005267",
+        "symbol": "NOVN",
+        "website": "https://www.novartis.com",
+        "logo": "images/www.novartis.png"
+    },
+    {
+        "isin": "ES0144580Y14",
+        "symbol": "IBE",
+        "website": "https://www.iberdrola.com",
+        "logo": "images/www.iberdrola.png"
+    },
+    {
+        "isin": "FR0000120321",
+        "symbol": "OR",
+        "website": "https://www.loreal.com",
+        "logo": "images/www.loreal.png"
+    },
+    {
+        "isin": "FR0000121972",
+        "symbol": "SU",
+        "website": "https://www.se.com",
+        "logo": "images/www.se.png"
+    },
+    {
+        "isin": "AT0000743059",
+        "symbol": "OMV",
+        "website": "https://www.omv.com",
+        "logo": "images/www.omv.png"
+    },
+    {
+        "isin": "FR0013326246",
+        "symbol": "URW",
+        "website": "https://www.urw.com",
+        "logo": "images/www.urw.png"
+    },
+    {
+        "isin": "FR0000130809",
+        "symbol": "GLE",
+        "website": "https://www.societegenerale.com",
+        "logo": "images/www.societegenerale.png"
+    },
+    {
+        "isin": "GB0004835483",
+        "symbol": "SAB",
+        "website": "https://www.ab-inbev.com",
+        "logo": "images/www.ab-inbev.png"
+    },
+    {
+        "isin": "ES0113211835",
+        "symbol": "BBVA",
+        "website": "https://www.bbva.com",
+        "logo": "images/www.bbva.png"
+    },
+    {
+        "isin": "FR0006174348",
+        "symbol": "BVI",
+        "website": "https://www.bureauveritas.com",
+        "logo": "images/www.bureauveritas.png"
+    },
+    {
+        "isin": "CH0012410517",
+        "symbol": "BALN",
+        "website": "https://www.baloise.com",
+        "logo": "images/www.baloise.png"
+    },
+    {
+        "isin": "DE0008404005",
+        "symbol": "ALV",
+        "website": "https://www.allianz.com",
+        "logo": "images/www.allianz.png"
+    },
+    {
+        "isin": "AT0000606306",
+        "symbol": "RBIN",
+        "website": "https://www.rbinternational.com",
+        "logo": "images/www.rbinternational.png"
+    },
+    {
+        "isin": "CH0126881561",
+        "symbol": "SREN",
+        "website": "https://www.swissre.com",
+        "logo": "images/www.swissre.png"
+    },
+    {
+        "isin": "DE0005557508",
+        "symbol": "DTE",
+        "website": "https://www.telekom.com",
+        "logo": "images/www.telekom.png"
+    },
+    {
+        "isin": "FR0000121014",
+        "symbol": "MC",
+        "website": "https://www.lvmh.com",
+        "logo": "images/www.lvmh.png"
+    },
+    {
+        "isin": "DE0006483001",
+        "symbol": "LIN",
+        "website": "https://www.linde.com",
+        "logo": "images/www.linde.png"
+    },
+    {
+        "isin": "DE000BFB0019",
+        "symbol": "B4B",
+        "website": "https://www.metro.com",
+        "logo": "images/www.metro.png"
+    },
+    {
+        "isin": "GB0002374006",
+        "symbol": "DGE",
+        "website": "https://www.diageo.com",
+        "logo": "images/www.diageo.png"
+    },
+    {
+        "isin": "CH0038863350",
+        "symbol": "NESN",
+        "website": "https://www.nestle.com",
+        "logo": "images/www.nestle.png"
+    },
+    {
+        "isin": "GB0005405286",
+        "symbol": "HSBA",
+        "website": "https://www.hsbc.com",
+        "logo": "images/www.hsbc.png"
+    }
+]
